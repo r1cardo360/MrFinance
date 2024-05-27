@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom right,#2e503d 50%, #69B68B);
+}
+.container-principal {
+    padding: 20px;
+}
+.logo img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.container-login{
+    background-color: #181818;
+    padding: 30px 10px 30px 10px;
+    border-radius: 30px;
+}
