@@ -12,6 +12,27 @@ body{
 }
 .container-login{
     background-color: #181818;
-    padding: 30px 10px 30px 10px;
     border-radius: 30px;
+    row-gap: 25px;
+    padding: 80px 0px 40px 0px;
+}
+
+.btn{
+    background-color: #71B48D;
+}
+
+.btn:hover{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.ancora{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 0.8rem;
+}
+
+.ancora:hover{
+    text-decoration: none;
+    color: #BFBFBF;
 }
