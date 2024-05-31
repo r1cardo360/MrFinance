@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom right,#2e503d 50%, #69B68B);
+}
+
+.custom-login{
+    background-color: #181818;
+    border-radius: 30px;
+    width: 85%;
+}
+
+.btn{
+    width: 40%;
+}
+
+.form-control{
+    width: 85%;
+    display: inline;
+}
