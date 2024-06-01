@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom left, #2E503D 40%, #69B68B);
+}
+
+h2{
+    color: white;
+}
+
+.form-control{
+    width: 60%;
+}
+
+.container{
+    height: 32%;
+}
+
+.custom-row{
+    height: 100%;
+}
+
+.row-button{
+    height: 60%;
+}
