@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom right,#2E503D 40%, #69B68B );
+}
+
+.btn-custom{
+    width: 100%;
+}
+
+label{
+    color: white;
+}
