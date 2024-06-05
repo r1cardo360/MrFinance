@@ -10,3 +10,11 @@ body{
 label{
     color: white;
 }
+
+.container{
+    width: 70%;
+}
+
+.custom-margim{
+    margin-left: 7%;
+}
